@@ -1,0 +1,18 @@
+    html{
+    text-align: center;
+    }
+
+    .cell{
+        height: 20px;
+        width: 20px;
+        border: 2px solid black;
+    }
+    #createTable{
+        display: inline;
+    }
+      #createTableForSalvo{
+        display: inline;
+        float: right;
+        margin-top: -310px;
+        margin-right: 10px;
+    }
